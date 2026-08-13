@@ -1,0 +1,151 @@
+TMA_ID,Image,Status
+1_001_01-S-17-02150,20251215 Larynx TMA Section 1_001.tiff,tumor
+1_002_01-S-16-07206,20251215 Larynx TMA Section 1_002.tiff,tumor
+1_003_01-S-15-02057,20251215 Larynx TMA Section 1_003.tiff,tumor
+1_005_01-S-16-07206,20251215 Larynx TMA Section 1_005.tiff,normal
+1_007_NA,20251215 Larynx TMA Section 1_007.tiff,PDX
+1_008_01-S-16-06359,20251215 Larynx TMA Section 1_008.tiff,tumor
+1_009_01-S-15-01906,20251215 Larynx TMA Section 1_009.tiff,tumor
+1_010_NA,20251215 Larynx TMA Section 1_010.tiff,PDX
+1_012_01-S-15-15501,20251215 Larynx TMA Section 1_012.tiff,tumor
+1_014_01-S-17-00578,20251215 Larynx TMA Section 1_014.tiff,tumor
+1_015_01-S-15-15501,20251215 Larynx TMA Section 1_015.tiff,normal
+1_016_01-SU-02-06239,20251215 Larynx TMA Section 1_016.tiff,tumor
+1_018_01-S-15-15564,20251215 Larynx TMA Section 1_018.tiff,tumor
+1_019_01-SU-02-06239,20251215 Larynx TMA Section 1_019.tiff,normal
+1_020_01-S-15-15564,20251215 Larynx TMA Section 1_020.tiff,normal
+2_001_01-S-10-08012,20251215 Larynx TMA Section 2_001.tiff,tumor
+2_002_01-S-09-07205,20251215 Larynx TMA Section 2_002.tiff,tumor
+2_003_01-S-08-11614,20251215 Larynx TMA Section 2_003.tiff,tumor
+2_004_01-SU-02-11876,20251215 Larynx TMA Section 2_004.tiff,tumor
+2_007_01-S-09-07205,20251215 Larynx TMA Section 2_007.tiff,normal
+2_008_01-S-08-11614,20251215 Larynx TMA Section 2_008.tiff,normal
+2_009_01-SU-02-11876,20251215 Larynx TMA Section 2_009.tiff,normal
+2_011_01-SU-02-01110,20251215 Larynx TMA Section 2_011.tiff,tumor
+2_013_01-S-10-03786,20251215 Larynx TMA Section 2_013.tiff,tumor
+2_014_01-S-09-01170,20251215 Larynx TMA Section 2_014.tiff,tumor
+2_015_01-S-08-05942,20251215 Larynx TMA Section 2_015.tiff,tumor
+2_017_01-SU-02-01110,20251215 Larynx TMA Section 2_017.tiff,normal
+2_019_01-S-10-03786,20251215 Larynx TMA Section 2_019.tiff,normal
+2_020_01-S-09-03275,20251215 Larynx TMA Section 2_020.tiff,tumor
+2_021_01-S-08-05942,20251215 Larynx TMA Section 2_021.tiff,normal
+2_022_01-SU-02-08531,20251215 Larynx TMA Section 2_022.tiff,tumor
+2_024_01-S-10-12292,20251215 Larynx TMA Section 2_024.tiff,normal
+2_025_01-S-10-04106,20251215 Larynx TMA Section 2_025.tiff,tumor
+2_026_01-S-09-03275,20251215 Larynx TMA Section 2_026.tiff,normal
+2_027_01-S-08-07826,20251215 Larynx TMA Section 2_027.tiff,tumor
+2_028_01-SU-02-08531,20251215 Larynx TMA Section 2_028.tiff,normal
+2_029_01-SU-02-02584,20251215 Larynx TMA Section 2_029.tiff,tumor
+2_030_01-S-11-00361,20251215 Larynx TMA Section 2_030.tiff,tumor
+2_032_01-S-09-05040,20251215 Larynx TMA Section 2_032.tiff,tumor
+2_034_01-SU-02-09920,20251215 Larynx TMA Section 2_034.tiff,tumor
+2_035_01-SU-02-02584,20251215 Larynx TMA Section 2_035.tiff,normal
+2_037_01-S-10-05768,20251215 Larynx TMA Section 2_037.tiff,tumor
+2_038_01-S-09-05040,20251215 Larynx TMA Section 2_038.tiff,normal
+2_039_01-S-08-10105,20251215 Larynx TMA Section 2_039.tiff,tumor
+2_040_01-SU-02-09920,20251215 Larynx TMA Section 2_040.tiff,normal
+2_041_01-SU-02-04591,20251215 Larynx TMA Section 2_041.tiff,tumor
+3_002_01-SU-00-05733,20251215 Larynx TMA Section 3_002.tiff,tumor
+3_003_01-SU-00-03942,20251215 Larynx TMA Section 3_003.tiff,tumor
+3_004_01-SU-00-02872,20251215 Larynx TMA Section 3_004.tiff,tumor
+3_005_01-SU-01-07770,20251215 Larynx TMA Section 3_005.tiff,tumor
+3_007_01-SU-01-03460,20251215 Larynx TMA Section 3_007.tiff,normal
+3_008_01-SU-00-10136,20251215 Larynx TMA Section 3_008.tiff,tumor
+3_009_01-SU-00-04266,20251215 Larynx TMA Section 3_009.tiff,tumor
+3_010_01-SU-00-02872,20251215 Larynx TMA Section 3_010.tiff,normal
+3_011_01-SU-01-07770,20251215 Larynx TMA Section 3_011.tiff,normal
+3_012_01-SU-00-06990,20251215 Larynx TMA Section 3_012.tiff,normal
+3_013_01-SU-01-04178,20251215 Larynx TMA Section 3_013.tiff,tumor
+3_015_01-SU-00-04266,20251215 Larynx TMA Section 3_015.tiff,normal
+3_016_01-SU-00-6021,20251215 Larynx TMA Section 3_016.tiff,tumor
+3_018_01-SU-01-06858,20251215 Larynx TMA Section 3_018.tiff,tumor
+3_019_01-SU-01-04178,20251215 Larynx TMA Section 3_019.tiff,normal
+3_021_01-SU-00-04416,20251215 Larynx TMA Section 3_021.tiff,tumor
+3_022_01-SU-00-6021,20251215 Larynx TMA Section 3_022.tiff,normal
+3_024_01-SU-01-06858,20251215 Larynx TMA Section 3_024.tiff,normal
+3_025_01-SU-01-04988,20251215 Larynx TMA Section 3_025.tiff,tumor
+3_028_01-SU-00-05284,20251215 Larynx TMA Section 3_028.tiff,tumor
+3_029_01-S-09-09691,20251215 Larynx TMA Section 3_029.tiff,tumor
+3_030_01-SU-01-04988,20251215 Larynx TMA Section 3_030.tiff,normal
+3_031_01-SU-01-03136,20251215 Larynx TMA Section 3_031.tiff,tumor
+3_032_01-SU-00-04657,20251215 Larynx TMA Section 3_032.tiff,tumor
+3_034_01-S-09-09691,20251215 Larynx TMA Section 3_034.tiff,normal
+3_035_01-SU-01-03136,20251215 Larynx TMA Section 3_035.tiff,normal
+3_036_01-SU-00-04657,20251215 Larynx TMA Section 3_036.tiff,normal
+3_037_S09-12762,20251215 Larynx TMA Section 3_037.tiff,normal
+3_038_S09-12762,20251215 Larynx TMA Section 3_038.tiff,tumor
+3_039_01-SU-01-02457,20251215 Larynx TMA Section 3_039.tiff,normal
+3_040_01-SU-01-02457,20251215 Larynx TMA Section 3_040.tiff,tumor
+Section_001_01-S-17-02150,20260129 Larynx 014_ROI_A & C  Section_001.tiff,tumor
+Section_003_NA,20260129 Larynx 014_ROI_A & C  Section_003.tiff,PDX
+Section_004_NA,20260129 Larynx 014_ROI_A & C  Section_004.tiff,PDX
+Section_005_01-SU-02-06239,20260129 Larynx 014_ROI_A & C  Section_005.tiff,tumor
+Section_007_01-S-16-07206,20260129 Larynx 014_ROI_A & C  Section_007.tiff,tumor
+Section_008_01-S-16-07206,20260129 Larynx 014_ROI_A & C  Section_008.tiff,normal
+Section_009_01-S-16-06359,20260129 Larynx 014_ROI_A & C  Section_009.tiff,tumor
+Section_011_01-S-15-15501,20260129 Larynx 014_ROI_A & C  Section_011.tiff,tumor
+Section_013_01-S-15-02057,20260129 Larynx 014_ROI_A & C  Section_013.tiff,tumor
+Section_015_01-S-17-00578,20260129 Larynx 014_ROI_A & C  Section_015.tiff,normal
+Section_016_01-S-15-15564,20260129 Larynx 014_ROI_A & C  Section_016.tiff,tumor
+Section_017_01-S-15-15564,20260129 Larynx 014_ROI_A & C  Section_017.tiff,normal
+Section_019_01-SU-01-03460,20260129 Larynx 014_ROI_A & C  Section_019.tiff,normal
+Section_020_01-SU-01-04178,20260129 Larynx 014_ROI_A & C  Section_020.tiff,tumor
+Section_021_01-SU-01-04178,20260129 Larynx 014_ROI_A & C  Section_021.tiff,normal
+Section_022_01-SU-01-04988,20260129 Larynx 014_ROI_A & C  Section_022.tiff,tumor
+Section_023_01-SU-01-04988,20260129 Larynx 014_ROI_A & C  Section_023.tiff,normal
+Section_024_01-SU-00-05733,20260129 Larynx 014_ROI_A & C  Section_024.tiff,tumor
+Section_025_01-SU-00-10136,20260129 Larynx 014_ROI_A & C  Section_025.tiff,tumor
+Section_027_01-SU-01-01879,20260129 Larynx 014_ROI_A & C  Section_027.tiff,normal
+Section_028_01-SU-01-01879,20260129 Larynx 014_ROI_A & C  Section_028.tiff,normal
+Section_029_01-SU-01-03136,20260129 Larynx 014_ROI_A & C  Section_029.tiff,tumor
+Section_030_01-SU-00-03942,20260129 Larynx 014_ROI_A & C  Section_030.tiff,tumor
+Section_031_01-SU-00-04266,20260129 Larynx 014_ROI_A & C  Section_031.tiff,tumor
+Section_032_01-SU-00-04266,20260129 Larynx 014_ROI_A & C  Section_032.tiff,normal
+Section_033_01-SU-00-04416,20260129 Larynx 014_ROI_A & C  Section_033.tiff,tumor
+Section_034_01-SU-00-04416,20260129 Larynx 014_ROI_A & C  Section_034.tiff,normal
+Section_035_01-SU-00-04657,20260129 Larynx 014_ROI_A & C  Section_035.tiff,tumor
+Section_036_01-SU-00-04657,20260129 Larynx 014_ROI_A & C  Section_036.tiff,normal
+Section_037_01-SU-00-02872,20260129 Larynx 014_ROI_A & C  Section_037.tiff,tumor
+Section_039_01-SU-00-6021,20260129 Larynx 014_ROI_A & C  Section_039.tiff,tumor
+Section_040_01-SU-00-6021,20260129 Larynx 014_ROI_A & C  Section_040.tiff,normal
+Section_041_01-SU-00-05284,20260129 Larynx 014_ROI_A & C  Section_041.tiff,tumor
+Section_044_01-SU-01-07770,20260129 Larynx 014_ROI_A & C  Section_044.tiff,tumor
+Section_045_01-SU-01-07770,20260129 Larynx 014_ROI_A & C  Section_045.tiff,normal
+Section_048_01-S-09-09691,20260129 Larynx 014_ROI_A & C  Section_048.tiff,tumor
+Section_049_01-S-09-09691,20260129 Larynx 014_ROI_A & C  Section_049.tiff,normal
+Section_050_S09-12762,20260129 Larynx 014_ROI_A & C  Section_050.tiff,tumor
+Section_051_01-SU-00-06990,20260129 Larynx 014_ROI_A & C  Section_051.tiff,normal
+Section_052_01-SU-01-06858,20260129 Larynx 014_ROI_A & C  Section_052.tiff,tumor
+Section_053_01-SU-01-06858,20260129 Larynx 014_ROI_A & C  Section_053.tiff,normal
+Section_054_01-SU-01-06296,20260129 Larynx 014_ROI_A & C  Section_054.tiff,tumor
+Section_055_01-SU-01-02457,20260129 Larynx 014_ROI_A & C  Section_055.tiff,normal
+B_001_01-S-10-08012,20260129 Larynx Section B_001.tiff,tumor
+B_003_01-S-10-07555,20260129 Larynx Section B_003.tiff,tumor
+B_004_01-S-10-12292,20260129 Larynx Section B_004.tiff,tumor
+B_006_01-S-11-00361,20260129 Larynx Section B_006.tiff,tumor
+B_007_01-S-09-07205,20260129 Larynx Section B_007.tiff,tumor
+B_008_01-S-09-07205,20260129 Larynx Section B_008.tiff,normal
+B_009_01-S-10-03786,20260129 Larynx Section B_009.tiff,tumor
+B_010_01-S-10-03786,20260129 Larynx Section B_010.tiff,normal
+B_011_01-S-10-04106,20260129 Larynx Section B_011.tiff,tumor
+B_012_01-S-10-04106,20260129 Larynx Section B_012.tiff,normal
+B_013_01-S-08-11614,20260129 Larynx Section B_013.tiff,normal
+B_014_01-S-08-11614,20260129 Larynx Section B_014.tiff,normal
+B_015_01-S-09-01170,20260129 Larynx Section B_015.tiff,tumor
+B_016_01-S-09-03275,20260129 Larynx Section B_016.tiff,tumor
+B_017_01-S-09-03275,20260129 Larynx Section B_017.tiff,normal
+B_018_01-S-09-05040,20260129 Larynx Section B_018.tiff,tumor
+B_019_01-SU-02-11876,20260129 Larynx Section B_019.tiff,tumor
+B_020_01-SU-02-11876,20260129 Larynx Section B_020.tiff,normal
+B_021_01-S-08-05942,20260129 Larynx Section B_021.tiff,tumor
+B_022_01-S-08-05942,20260129 Larynx Section B_022.tiff,normal
+B_023_01-S-08-07826,20260129 Larynx Section B_023.tiff,tumor
+B_025_01-S-08-10105,20260129 Larynx Section B_025.tiff,tumor
+B_028_01-SU-02-07201,20260129 Larynx Section B_028.tiff,normal
+B_030_01-SU-02-08531,20260129 Larynx Section B_030.tiff,normal
+B_031_01-SU-02-09920,20260129 Larynx Section B_031.tiff,tumor
+B_033_01-SU-02-01110,20260129 Larynx Section B_033.tiff,tumor
+B_034_01-SU-02-01110,20260129 Larynx Section B_034.tiff,normal
+B_035_01-SU-02-00099,20260129 Larynx Section B_035.tiff,tumor
+B_036_01-SU-02-02584,20260129 Larynx Section B_036.tiff,tumor
+B_037_01-SU-02-02584,20260129 Larynx Section B_037.tiff,normal
